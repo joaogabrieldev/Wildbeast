@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img style="width: 100px;" alt="Wildbeast" title="#wildbeast" src="Readme/Logo_leao.svg" />
-</h1>
+<p align="center"><img src="Readme/Logo_leao.svg" width="150px"></p>
 
 <div align="center">
 	<h3 align="center">Wildbeast</h3>
@@ -10,7 +8,7 @@
 		✅ Status: concluído ✅
 </h3>
 <div align="center">
-<a href="https://flexblog-joaogabriel.vercel.app">Acesse a aplicação clicando aqui !</a>
+<a href="https://wildbeast-joaogabriel.vercel.app">Acesse a aplicação clicando aqui !</a>
 </div>
 
 ## 🗒️ Conteúdo
@@ -30,7 +28,7 @@ Projeto desenvolvido no curso de CSS Grid Layout na plataforma de estudos da Ori
 
 <p align="center">
   <img alt="Demonstração" src="Readme/gif_desktop.gif" width="600">
-	<img alt="Demonstração" src="Readme/gif_mobile.gif">
+  <img alt="Demonstração" src="Readme/gif_mobile.gif" height="340">
 </p>
 
 ## 🛠 Tecnologias
